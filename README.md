@@ -22,7 +22,9 @@ fft_signal_analysis.py — Main Python script containing signal generation, FFT 
 README.md — Project overview and setup instructions
 
 ## 📷 Sample Output
- screenshots of my plots here after running the code.
+![screen1](https://github.com/user-attachments/assets/7cb6c44b-a8cb-4a53-865b-a3a155357b52)
+![Screen2](https://github.com/user-attachments/assets/0de79f10-0393-4813-ba01-ea79c5244405)
+
 
 ## ▶️ How to Run
 Clone the repo or download the script
